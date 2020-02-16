@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+This App helps you to capture image and upload to database 
+- this is a testing app to connect to database
+- the  next image will overwrite the previous image
+- create your json file in firebase and add it in the respective folder
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
